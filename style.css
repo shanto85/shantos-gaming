@@ -1,0 +1,28 @@
+.gray-bg{
+    background-color: rgb(143, 143, 143);
+}
+
+.pic1, .pic2, .pic3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.pic1{
+    background-color: lightseagreen;
+    
+}
+.pic2{
+    background-color: mediumseagreen;
+}
+.pic3{
+    background-color: mediumturquoise;
+}
+.container h1{
+    color: rgb(0, 12, 117);
+}
+.container img{
+    width: 100px;
+}
+footer{
+    height: 500px;
+    background-color: darkgoldenrod;
+}
